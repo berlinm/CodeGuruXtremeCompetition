@@ -1,5 +1,4 @@
-
-; Author: Michael Berlin
+@author: Michael Berlin
 
 start:
 
