@@ -1,5 +1,8 @@
 
+; Author: Michael Berlin
+
 start:
+
 ; initialize checkers (google "canary" for extra information)
 
 mov bx, ax
